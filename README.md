@@ -1,11 +1,12 @@
 # DataScience
 
 ## class imbalance problem
-* If you can make balace data by chanbe bin
+* If you can change binning that weaken imbalance data and still makes sense for a question, do so.
+* Consider other metrics, such as recall, precision, F1 to evaluate in .
 
 
 ## Practice for longitudinal data analysis
-* Use linear mixed model.
+* Use linear mixed model
 [ref](https://faculty.washington.edu/heagerty/Courses/VA-longitudinal/private/LDAchapter.pdf)
 
 ## Practice for imputating for missing values
