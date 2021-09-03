@@ -6,5 +6,4 @@
 1. Hands On Translation
     1. Github IO
 1. Discussions
-    1. 공동번역
-    1. 번역에 있어 bookdown 과 github 활용
+    1. 공동번역 : https://github.com/sulgik/r4dskr
